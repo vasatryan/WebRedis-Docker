@@ -16,4 +16,7 @@
         if it doesn't work then։
         
             Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
-            .\venv\Scripts\Activate# WebRedis-Docker
+            .\venv\Scripts\Activat  
+2. Install requirements:
+    ```bash
+    pip install -r .\requirements.txt
