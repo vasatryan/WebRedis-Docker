@@ -20,3 +20,11 @@
 2. Install requirements:
     ```bash
     pip install -r .\requirements.txt
+
+3. Build and running:
+    ```bash
+    sudo docker-compose up --build
+
+## Usage
+    ```bash
+    curl -X POST http://localhost:8000/
