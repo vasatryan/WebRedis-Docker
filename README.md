@@ -26,5 +26,5 @@
     sudo docker-compose up --build
 
 ## Usage
-    ```bash
+    
     curl -X POST http://localhost:8000/
